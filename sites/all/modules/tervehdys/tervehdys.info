@@ -1,5 +1,5 @@
-name = Tervehdys
-description = Tervehdys
+name = Tuotteet
+description = Tuoteluettelo
 core = 7.x
 package = Features
 version = 7.x-1.0

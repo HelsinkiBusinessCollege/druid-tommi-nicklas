@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tuotteet feature.
+ */
+
+include_once 'tuotteet.features.inc';

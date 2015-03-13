@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the Tervehdys feature.
- */
-
-include_once 'tervehdys.features.inc';
